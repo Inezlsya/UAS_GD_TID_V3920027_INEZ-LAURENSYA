@@ -188,3 +188,5 @@ root = Tk()
 PemutarMusik(root)
 mainloop()
 pygame.quit()
+
+<1>
